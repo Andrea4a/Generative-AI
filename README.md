@@ -50,14 +50,6 @@ and each value is binary.
 
 All models are trained on **CelebA**.
 
-The training scripts expect the dataset to be available locally at:
-
-```text
-/home/pfoggia/GenerativeAI/CELEBA
-```
-
-If your dataset is stored elsewhere, update the dataset path inside the scripts before training.
-
 ## How to Run
 
 ## GAN
